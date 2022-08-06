@@ -1,0 +1,11 @@
+
+.footer {
+    font-size: 20;
+    border-top: 1px solid black;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.footer h6 {
+    color: rgba(30, 108, 46, 0.672);
+}
