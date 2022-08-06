@@ -17,5 +17,5 @@ function App() {
     </div>
   );
 }
-//read about react hooks HW useState, useEffect, useContext
+
 export default App;
