@@ -1,0 +1,21 @@
+.admin {
+    color: #735751;
+}
+
+.admin .parent {
+    color: #735751;
+    display: flex;
+}
+
+.admin .parent .products {
+    flex: 1;
+
+}
+
+.admin .parent .list {
+    flex: 1;
+}
+
+.btn-primary {
+    color: #735751;
+}

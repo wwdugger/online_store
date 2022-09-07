@@ -1,0 +1,11 @@
+
+.footer {
+    font-size: 23px;
+    border-top: 1.3px solid #BF4342;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.footer h6 {
+    color: #8C1C13;
+}

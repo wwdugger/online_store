@@ -1,0 +1,13 @@
+.banner-1 img {
+    height: 1000px;
+    width: auto;
+}
+.banner-1 {
+    position: relative;
+}
+
+.banner-1 .btn {
+    position: absolute;
+    top: 12%;
+    left: 50%;
+}

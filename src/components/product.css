@@ -1,0 +1,48 @@
+.product {
+  background-color: #e7d7c1;
+  border: 1px solid #8c1c13;
+  border-radius: 6px;
+  padding: 10px;
+  width: 290px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.product img {
+  width: 270px;
+  height: 240px;
+}
+
+.product .prices {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.products .prices label {
+  color: #8c1c13;
+  flex: 1;
+}
+
+.product .total {
+  font-size: 21px;
+}
+
+.product .price {
+  color: #8c1c13;
+  font-size: 19px;
+}
+
+.product .controls {
+  display: flex;
+}
+
+.product .controls .qt-picker {
+  color: #8c1c13;
+  flex: 3;
+}
+
+.product .control button {
+  flex: 2;
+  text-align: center;
+}
